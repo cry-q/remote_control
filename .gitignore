@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/src/META-INF/MANIFEST.MF
+/key.iml
